@@ -1,4 +1,4 @@
-# https://camo.githubusercontent.com/f4e8e48bef3db957c2006f3102ae376fa7012de3d07b3a3d7e6587485e416663/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234 About Me:
+# 💫 About Me:
 Beginner mobile developer. Learning Flutter, Dart, Kotlin, and Java by building personal projects. Exploring Firebase, GCP, and APIs.
 
 
