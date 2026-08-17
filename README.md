@@ -11,8 +11,3 @@ Beginner mobile developer. Learning Flutter, Dart, Kotlin, and Java by building 
 ![](https://github-readme-stats.shion.dev/api?username=Timur2010-creator&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Timur2010-creator&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Timur2010-creator&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=Timur2010-creator&icon=7&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
