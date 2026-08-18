@@ -1,4 +1,9 @@
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:7C3AED&height=180&section=header&animation=fadeIn"/>
+
+</div>
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Timur!+👋;Beginner+Mobile+Developer;Learning+Flutter,+Kotlin,+and+Java;Turning+ideas+into+reality!" alt="Typing SVG" />
   </a>
@@ -56,4 +61,12 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Timur2010-creator&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="48%" />
   <br><br>
   <img src="https://streak-stats.demolab.com/?user=Timur2010-creator&theme=tokyonight&hide_border=true" width="97%" />
+</div>
+<div align="center">
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:7C3AED&height=180&section=footer&animation=fadeIn"
+/>
+
 </div>
