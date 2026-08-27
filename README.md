@@ -1,74 +1,182 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:7C3AED&height=180&section=header&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:111827,100:1E1B4B&height=220&section=header&text=TIMUR&fontSize=70&fontColor=38BDF8&fontAlignY=50&desc=MOBILE%20DEVELOPER%20%7C%20FLUTTER%20%7C%20KOTLIN&descSize=18&descAlignY=70&descColor=A5B4FC&animation=fadeIn"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+mobile+experiences+📱;Learning+%26+building+every+day+⚡;Flutter+%7C+Dart+%7C+Kotlin+%7C+Java;From+idea+to+application+🚀" />
+
+<br><br>
+
+<a href="https://t.me/tttimur02">
+<img src="https://img.shields.io/badge/TELEGRAM-0F172A?style=for-the-badge&logo=telegram&logoColor=38BDF8" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/tttimur02/">
+<img src="https://img.shields.io/badge/INSTAGRAM-0F172A?style=for-the-badge&logo=instagram&logoColor=F472B6" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Timur2010-creator">
+<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
 
 </div>
+
+<br>
+
+---
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2CA5E0&center=true&vCenter=true&width=600&lines=Hi,+I'm+Timur!+👋;Beginner+Mobile+Developer;Learning+Flutter,+Kotlin,+and+Java;Turning+ideas+into+reality!" alt="Typing SVG" />
-  </a>
-  
-  <p align="center">
-    <a href="https://t.me/tttimur02">
-      <img src="https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
-    </a>
-    <a href="https://www.instagram.com/tttimur02/">
-      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-    </a>
-  </p>
+
+## `01` — WHO AM I?
+
+</div>
+
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+### 👨‍💻 Timur
+
+I'm a **beginner mobile developer** who enjoys turning ideas into real applications.
+
+I'm currently focused on building a strong foundation in mobile development, experimenting with different technologies and learning through **real projects rather than only tutorials**.
+
+```text
+┌──────────────────────────────────┐
+│       MOBILE DEVELOPMENT         │
+│                                  │
+│  Flutter      ███████░░░  70%    │
+│  Dart         ██████░░░░  60%    │
+│  Kotlin       █████░░░░░  50%    │
+│  Java         █████░░░░░  50%    │
+└──────────────────────────────────┘
+```
+
+</td>
+
+<td width="45%" valign="top">
+
+### ⚡ CURRENTLY
+
+📱 Building mobile apps
+
+🎯 Improving Flutter skills
+
+🧠 Learning clean architecture
+
+🔥 Exploring Firebase
+
+☁️ Experimenting with GCP
+
+🔌 Working with REST APIs
+
+🎨 Learning UI/UX with Figma
+
+💻 Practicing algorithms & programming
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `02` — TECH ARSENAL
+
+<br>
+
+### 💻 LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=dart,kotlin,java,cpp,python&theme=dark" />
+
+<br><br>
+
+### 📱 MOBILE DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,swift,vscode&theme=dark" />
+
+<br><br>
+
+### ☁️ BACKEND & CLOUD
+
+<img src="https://skillicons.dev/icons?i=firebase,gcp&theme=dark" />
+
+<br><br>
+
+### 🛠️ TOOLS & UI
+
+<img src="https://skillicons.dev/icons?i=postman,figma&theme=dark" />
+
+<br><br>
+
+### 🔀 VERSION CONTROL
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=dark" />
+
+<br><br>
+
 </div>
 
 ---
 
-## 💫 About Me
-* 📱 **Beginner Mobile Developer** focused on creating seamless user experiences.
-* 🚀 **Currently learning:** Flutter, Dart, Kotlin, and Java through hands-on personal projects.
-* 🛠 **Exploring:** Firebase, GCP, and integrating REST APIs.
+<div align="center">
 
-## 💻 Tech Stack
+## `03` — GITHUB ACTIVITY
 
-<div align="left">
-  <b>Languages:</b><br>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <br><br>
-  
-  <b>Frameworks:</b><br>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
-  <br><br>
-  
-  <b>Tools, Cloud & UI:</b><br>
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <br><br>
-  
-  <b>Version Control:</b><br>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+<br>
+
+<img src="https://github-readme-stats.shion.dev/api?username=Timur2010-creator&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&title_color=38BDF8&icon_color=A78BFA&text_color=CBD5E1" width="49%" />
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Timur2010-creator&theme=transparent&hide_border=true&layout=compact&title_color=38BDF8&text_color=CBD5E1" width="49%" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=Timur2010-creator&theme=transparent&hide_border=true&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B" width="90%" />
+
 </div>
 
 ---
-## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Timur2010-creator&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Timur2010-creator&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="48%" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=Timur2010-creator&theme=tokyonight&hide_border=true" width="97%" />
+
+## `04` — DEVELOPMENT PHILOSOPHY
+
+<br>
+
+> **Build. Break. Learn. Improve. Repeat.**
+
+<br>
+
+<img src="https://img.shields.io/badge/LEARN-EVERY_DAY-38BDF8?style=for-the-badge&labelColor=0F172A" />
+
+<img src="https://img.shields.io/badge/BUILD-REAL_PROJECTS-A78BFA?style=for-the-badge&labelColor=0F172A" />
+
+<img src="https://img.shields.io/badge/NEVER-STOP-22C55E?style=for-the-badge&labelColor=0F172A" />
+
 </div>
+
+---
+
 <div align="center">
 
-<img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:7C3AED&height=180&section=footer&animation=fadeIn"
-/>
+## 🌐 LET'S CONNECT
+
+<br>
+
+<a href="https://t.me/tttimur02">
+<img src="https://img.shields.io/badge/Telegram-38BDF8?style=flat-square&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/tttimur02/">
+<img src="https://img.shields.io/badge/Instagram-F472B6?style=flat-square&logo=instagram&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E1B4B,100:312E81&height=130&section=footer"/>
 
 </div>
-
-
