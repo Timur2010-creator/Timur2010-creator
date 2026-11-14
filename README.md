@@ -101,13 +101,13 @@ I'm currently focused on building a strong foundation in mobile development, exp
 
 <br><br>
 
-### ☁️ BACKEND & CLOUD
+### ☁️ BACKEND
 
 <img src="https://skillicons.dev/icons?i=firebase,postman&theme=dark" />
 
 <br><br>
 
-### 🛠️ TOOLS & UI
+### 🛠️ UI
 
 <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 
