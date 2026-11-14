@@ -91,25 +91,25 @@ I'm currently focused on building a strong foundation in mobile development, exp
 
 ### 💻 LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=dart,kotlin,java,cpp,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=dart,kotlin,java,python&theme=dark" />
 
 <br><br>
 
 ### 📱 MOBILE DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio,swift,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,vscode&theme=dark" />
 
 <br><br>
 
 ### ☁️ BACKEND & CLOUD
 
-<img src="https://skillicons.dev/icons?i=firebase,gcp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=firebase,postman&theme=dark" />
 
 <br><br>
 
 ### 🛠️ TOOLS & UI
 
-<img src="https://skillicons.dev/icons?i=postman,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 
 <br><br>
 
